@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
+  </a>
+</p>
+
 # lista-contatos-web ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
@@ -50,7 +56,3 @@ git clone <https://github.com/carvalho484/Projeto_4_HTML_CSS-.git>
 Projeto simples e funcional para praticar HTML e CSS.
 Excelente para estudo de layout com Flexbox, estilização de listas e tipografia personalizada.
 Pode ser expandido futuramente com JavaScript e backend para funcionalidades completas.
-
-## Contato
-- Desenvolvedor: Lucas Carvalho
-- Email: lucascarvalhoptc06@gmail.com
